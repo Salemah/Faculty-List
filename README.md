@@ -1,4 +1,4 @@
-## Live Site Link https://list-of-faculties-ak.netlify.app/
+## Live Site Link https://jovial-wilson-c47f21.netlify.app/
 
 # <li>Showed University faculties list</li>
 # <li>Sotre data from cart to local storage</li>
